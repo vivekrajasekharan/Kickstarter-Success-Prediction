@@ -20,5 +20,5 @@ Predicting the success of kickstarter campaigns with machine learning
 ### Machine learning:
 
 1. Boosting model predicts success of a kickstarter project from the financial goal, category, time from creating the project to launching it, and the deadline set after launch, with 75% accuracy;
-2. Top three features: (i) Financial goal; (ii) time from creation to launch (iii) sentiment of project name and blurb.
+2. Top three features: (i) Financial goal; (ii) time from creation to launch; and (iii) sentiment of project name and blurb.
 
